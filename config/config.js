@@ -57,7 +57,7 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "https://calendar.google.com/calendar/ical/devontjsmith%40gmail.com/public/basic.ics"					}
+						url: "google cal link"					}
 				]
 			}
 		},
@@ -65,8 +65,8 @@ var config = {
 			module: 'MMM-GmailFeed',
 			position: 'bottom_bar',
 			config: {
-				username: 'devontjsmith@gmail.com',
-				password: 'WhiteCollar2004',
+				username: 'gmail',
+				password: 'password',
 				updateInterval: 60000,
 				maxEmails: 3,
 				maxSubjectLength: 38,
@@ -86,9 +86,9 @@ var config = {
 			config: {
 				weatherProvider: "openweathermap",
 				type: "forecast",
-				location: "Lafayette",
-				locationID: "5364226", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "9488304ba16eabd448347524d0db7fe8"
+				location: "",
+				locationID: "", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: ""
 			}
 		},
 		{
@@ -144,13 +144,13 @@ var config = {
 			config: {
 				// visit the url below for the twitter keys/tokens
 				// https://dev.twitter.com/oauth/overview/application-owner-access-tokens
-				consumer_key: 'EiSVj5RtSx3ekdUoHEtmeXgqm',
-				consumer_secret: 'HW6uAqvwkVdcff8gRUktHPxxu53VEiKhKXYqtrCDWGLt04oB5C',
-				access_token_key: '13050-r0hnjdTwTrZfpiLjMgBNnvFfd0QPUgMEHZE9vfaKocOB',
-				access_token_secret: 'gkfqfRejs6ntSNea6fEX75jXEH9Lw21E1NrOmRc1EI6Z7',
+				consumer_key: '',
+				consumer_secret: '',
+				access_token_key: '',
+				access_token_secret: '',
 				// set the username and either timeline or listname
-				screenName: 'kabbenbock',
-				listToShow: 'Trading',
+				screenName: '',
+				listToShow: '',
 				tweetsToShowAtATime: 3,
 			}
 		},
@@ -176,7 +176,7 @@ var config = {
 		  	header: "Google Sheets",
 		  	position: "top_right",
 		 	config: {
-		    		url: "https://script.google.com/macros/s/AKfycbxCarmnvEuYNLo6U9nymiG5YmqzbvZl1JrGc4VyqFHCx7uFV_-R/exec",
+		    		url: "",
 		    		sheet: "Sheet1",
 		    		range: "E1:F8",
 				updateInterval: 1, // minutes
