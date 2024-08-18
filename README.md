@@ -11,7 +11,7 @@ Features
 - Tweets: Shows tweets using the Twitter API.
 - Alexa Control: Allows control of modules using Alexa.
 
-The frame was built using some 4 by 2's and 30% transparent reflective plastic.
+The frame was built using some 4 by 2's and uses a 30% transparent reflective plastic as a screen. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
 
 Screenshots
 
