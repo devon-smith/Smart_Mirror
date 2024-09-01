@@ -1,4 +1,4 @@
-This repository contains the code for my Smart Mirror project, built using the [MagicMirror²](https://github.com/MichMich/MagicMirror) github repository. This smart mirror displays various modules such as calendar, Gmail feed, compliments, weather, pollen count, news feed, tweets, and Alexa control.
+This repository contains the code for my Smart Mirror project, built using the [MagicMirror²](https://github.com/MichMich/MagicMirror) github repository. This smart mirror displays various modules such as calendar, Gmail feed, compliments, weather, pollen count, news feed, tweets, and is Alexa control-able.
 
 Features
 
@@ -9,7 +9,7 @@ Features
 - Pollen Count: Shows current pollen count in your area.
 - News Feed: Displays the latest news headlines.
 - Tweets: Shows tweets using the Twitter API.
-- Alexa Control: Allows control of modules using Alexa.
+- Alexa Control: Allows control of modules using Alexa (shows different modules depending on the different modes).
 
 The frame was built using some 4 by 2's and uses a 30% transparent reflective plastic as a screen. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
 
