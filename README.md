@@ -13,8 +13,6 @@ Features
 
 The frame was built using some 4 by 2's and uses a 30% transparent reflective plastic as a screen to cover the monitor. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
 
-Screenshots
-
 Below is a screenshot of my smart mirror in action. You can see the various modules displaying real-time information including the calendar, weather, news feed, and more. This visual representation gives a clear overview of how the smart mirror interfaces with the user.
 
 ![Smart Mirror Screenshot](https://github.com/user-attachments/assets/63d7d205-c826-49bc-84dd-bfae00d27e0b)
