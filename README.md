@@ -11,7 +11,7 @@ Features
 - Tweets: Shows tweets using the Twitter API.
 - Alexa Control: Allows control of modules using Alexa (shows different modules in different positions depending on the different modes).
 
-The frame was built using some stained 4 by 2's and uses a 30% transparent reflective plastic as a screen to cover the monitor. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
+The frame was built using some stained 4 by 2's and there is a 30% transparent reflective plastic as a screen to cover the monitor. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
 
 Below is a screenshot of my smart mirror in action. You can see the various modules displaying real-time information including the calendar, weather, news feed, and more. This visual representation gives a clear overview of how the smart mirror interfaces with the user and can stream line the day.
 
