@@ -19,7 +19,7 @@ Below is a screenshot of my smart mirror in use. You can see the various modules
 
 Demo Video:
 
-In this video, you can see a live demo of the smart mirror in action. I am using Alexa to interact with the mirror, showcasing how you can change the modules displayed on the screen using voice commands. This demo helps to show the seamless integration and functionality of Alexa with the smart mirror.
+In this video, you can see a live demo of the smart mirror in action. I am using Alexa to interact with the mirror, showcasing how you can change the modules displayed on the screen using voice commands. This demo helps to show the seamless integration and functionality of Alexa with the smart mirror (managing modules display).
 
 [![Smart Mirror Demo](https://github.com/user-attachments/assets/84f04a63-4e9e-4597-804a-00e303a1b65d)](https://github.com/user-attachments/assets/84f04a63-4e9e-4597-804a-00e303a1b65d "Smart Mirror Demo Video")
 
