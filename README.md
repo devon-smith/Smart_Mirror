@@ -5,7 +5,7 @@ Features
 - Calendar: Displays events using the Google Calendar API.
 - Gmail Feed: Shows the latest unread emails from my Gmail account.
 - Compliments: Shows me daily compliments.
-- Weather: Displays current weather information using the OpenWeatherMap API keys.
+- Weather: Displays current weather information connected with the OpenWeatherMap API keys.
 - Pollen Count: Shows current pollen (includes different types of pollen) count in your local area.
 - News Feed: Displays the latest news headlines.
 - Tweets: Shows tweets using the Twitter API.
