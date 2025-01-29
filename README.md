@@ -8,7 +8,7 @@ Features
 - Weather: Displays current weather information connected with the OpenWeatherMap API keys.
 - Pollen Count: Shows current pollen (includes different types of pollen) count in your local area.
 - News Feed: Displays the latest news headlines.
-- Tweets: Shows tweets using the Twitter API.
+- Tweets: Shows tweets from favorite users using the Twitter API.
 - Alexa Control: Allows control of modules using Alexa (shows different modules in different positions depending on the different modes).
 
 The frame was built using some wood stained 4 by 2's and there is a 30% reflective plastic as a screen to cover the monitor. Behind the plastic screen is a monitor conencted to a raspberry pi. The plastic allows the light produced from the monitor to pass through while the rest of the surface acts as a mirror.
