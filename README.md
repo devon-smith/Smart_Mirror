@@ -2,7 +2,7 @@ This repository contains the code for my Smart Mirror project, built using the [
 
 Features
 
-- Calendar: Displays events using the Google Calendar API.
+- Calendar: Displays events using the Google Cal API.
 - Gmail Feed: Shows the latest unread emails from my Gmail account.
 - Compliments: Shows me daily compliments.
 - Weather: Displays current weather information connected with the OpenWeatherMap API keys.
