@@ -7,7 +7,7 @@ Features
 - Compliments: Shows me daily compliments.
 - Weather: Displays current weather information connected with the OpenWeatherMap API keys.
 - Pollen Count: Shows current pollen (includes different types of pollen) count in your local area.
-- News Feed: Displays the latest news headlines.
+- News Feed: Displays the latest news headlines using RSS.
 - Tweets: Shows tweets from favorited users using the Twitter API.
 - Alexa Control: Allows control of modules using Alexa (shows different modules in different positions depending on the different modes).
 
